@@ -1,0 +1,13 @@
+<style>
+
+/* Replace "#lp-pom-box-113" with the ID of your menu box and the 'top' value with the pixel height of your navigation bar */
+
+#lp-pom-box-113{
+    display: none;
+    position: fixed;
+    top: 96px;
+    left: 50%;
+    margin-left: -160px;
+  }
+
+</style>
